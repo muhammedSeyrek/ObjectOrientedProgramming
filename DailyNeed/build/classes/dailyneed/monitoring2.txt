@@ -1,0 +1,12 @@
+11234	has	taken	261  from  elma
+11235	has	taken	196  from  muz
+11237	has	taken	236  from  kavun
+11234	has	taken	964  from  kilistava
+11235	has	taken	1250  from  kuzucevirme
+murat	35	1775	1225	0	550
+11235	has	burned	476  thanks to  basketball
+11234	has	burned	102  thanks to  billiards
+12239	has	taken	64  from  nektarin
+there	is	no	such	person
+11234	has	taken	850  from  hindisis
+murat	35	1775	1973	102	-198
