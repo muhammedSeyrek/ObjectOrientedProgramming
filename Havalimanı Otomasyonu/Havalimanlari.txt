@@ -1,0 +1,5 @@
+Sabiha Gökcen,      Turkiye,      Istanbul
+Atatürk,      Turkiye,      Istanbul
+Esenboga,      Turkiye,      Ankara
+Erzurum Havalimani,      Turkiye,      Erzurum
+12,      21,      23

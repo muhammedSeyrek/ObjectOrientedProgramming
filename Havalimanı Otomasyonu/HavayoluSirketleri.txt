@@ -1,0 +1,4 @@
+01,Turk Hava Yollari
+02,Pegasus
+03,Anadolu Jet
+04,SunExpressHavayoluSirketi

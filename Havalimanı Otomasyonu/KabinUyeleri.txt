@@ -1,0 +1,2 @@
+KabinGorevlisi{ 78876145643, Sibel Çelik, Ankara,1989/4/5, KabinUyesitoplamSaat=0.0, toplamUcus=0, pilot=false}
+KabinGorevlisi{ 75876545643, Sevde Çalık, Ankara,1990/4/6, KabinUyesitoplamSaat=3.0, toplamUcus=4, pilot=true}
